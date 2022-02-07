@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+}
+.submit-btn {
+  background-color: #fa8080;
+  border: none;
+}
+.create-btn {
+  background-color: #e0e0e0;
+  border: none;
+}
+/* .sideimage{
+    height: 100vh;
+    width: 100%;
+    border-radius: 10px;
+} */
+.loginform {
+  width: inherit;
+}
+.user_card {
+  position: inherit;
+  width: auto;
+  margin-top: 100px;
+  background-color: white;
+}
